@@ -11,5 +11,3 @@ This is a personal project, as a way to learn more basics and fundamentals of ht
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 Others were personally added, with previous knowledge. And even though it was guided, there were things that I had to do differently, or investigate, because they gave me errors, or did not fit the guide.
-
-![preview img](/preview.png)
